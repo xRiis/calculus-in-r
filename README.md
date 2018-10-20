@@ -7,7 +7,8 @@ This is a growing selection of scripts I'm producing in order to enhance my know
 Attached is differentiate.R, which is an example of what to expect from each script: setup, assignment, and display.
 
 ## Scripts
-* **root/differentiate.R :** Take the first and second derivatives of single- and two-variable functions.
+* **root/differentiate.R :** Take the first and second derivatives of single- and two-variable expressions
+* **root/differentiate/multi_differentiate/multi_differentiate.R :** Take the first and second derivatives expressions with up to four independent variables, and also find the third derivative of each independent variable
 * **root/gradient/gradient.R :** Script with the same capabilities as differentiate.R but calculates the gradient and vectors orthogonal to the gradient
 
 ## Other
